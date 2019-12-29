@@ -1,0 +1,12 @@
+﻿  plantdetection.cpp
+D:\opencvplantsproject\opencvplantsproject\plantdetection.cpp(27,2): warning C4273: 'BackgroundSubtraction::Functions::Initialize': inconsistent dll linkage
+D:\opencvplantsproject\opencvplantsproject\plantdetection.h(21,49): message : see previous definition of 'Initialize'
+D:\opencvplantsproject\opencvplantsproject\plantdetection.cpp(31,34): warning C4273: 'BackgroundSubtraction::Functions::ProcessFrame': inconsistent dll linkage
+D:\opencvplantsproject\opencvplantsproject\plantdetection.h(24,50): message : see previous definition of 'ProcessFrame'
+     Creating library D:\opencvplantsproject\x64\Release\opencvplantsproject.lib and object D:\opencvplantsproject\x64\Release\opencvplantsproject.exp
+  Generating code
+  15 of 16 functions (93.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opencvplantsproject.vcxproj -> D:\opencvplantsproject\x64\Release\opencvplantsproject.dll
